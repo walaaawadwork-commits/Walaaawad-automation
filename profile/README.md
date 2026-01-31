@@ -1,7 +1,7 @@
 # Personal Automation Services Website
 A clean, conversion-focused website for personal automation services targeting small business owners and solo founders.
 
-🌐 Live Demo: [Visit My Automation Portfolio](https://walaaawad.netlify.app/.)
+🌐 Live Demo: [Visit My Automation Portfolio](https://3d50d3d2.walaaawad.pages.dev/)
 
 ## 🎯 Project Overview
 
